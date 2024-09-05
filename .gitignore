@@ -5,6 +5,3 @@ __pycache__
 
 # env
 env
-
-# ignore json data for size restraints
-data/json
